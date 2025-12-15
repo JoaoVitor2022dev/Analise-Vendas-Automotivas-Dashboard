@@ -1,6 +1,6 @@
 # 🚗 Automotive Sales & Customer Profiling Dashboard
 
-<img width="1444" height="793" alt="image" src="https://github.com/user-attachments/assets/3bc5da2f-0a85-4e17-9239-32f661c8ce75" />
+<img width="1448" height="797" alt="image" src="https://github.com/user-attachments/assets/7efdb7c4-6ac5-4cc7-b90e-e4a381c84c3b" />
 
 ## Visão Geral do Projeto
 
