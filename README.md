@@ -1,5 +1,7 @@
 # 🚗 Automotive Sales & Customer Profiling Dashboard
 
+<img width="1444" height="793" alt="image" src="https://github.com/user-attachments/assets/3bc5da2f-0a85-4e17-9239-32f661c8ce75" />
+
 ## Visão Geral do Projeto
 
 Este projeto consiste em um dashboard de Business Intelligence (BI) e uma análise de dados detalhada, focada em transformar dados brutos de funil de vendas e cadastro de clientes em insights estratégicos para o mercado automotivo. O objetivo principal é otimizar a gestão de estoque, as estratégias de marketing e a compreensão da demanda de veículos.
